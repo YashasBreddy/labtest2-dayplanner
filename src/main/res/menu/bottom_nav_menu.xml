@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@drawable/ic_dashboard"
+        android:title="@string/tab_dashboard" />
+
+    <item
+        android:id="@+id/nav_places"
+        android:icon="@drawable/ic_list"
+        android:title="@string/tab_places" />
+
+    <item
+        android:id="@+id/nav_map"
+        android:icon="@drawable/ic_map"
+        android:title="@string/tab_map" />
+
+    <item
+        android:id="@+id/nav_route"
+        android:icon="@drawable/ic_route"
+        android:title="@string/tab_route" />
+
+    <item
+        android:id="@+id/nav_nearby"
+        android:icon="@drawable/ic_near_me"
+        android:title="@string/tab_nearby" />
+</menu>

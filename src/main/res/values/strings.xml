@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">DayPlanner</string>
+    <string name="app_full_name">DayPlanner – Sightseeing To-Do &amp; Best Route</string>
+    <string name="tagline">Plan Your Day. Explore More.</string>
+
+    <!-- Navigation Tabs -->
+    <string name="tab_dashboard">Dashboard</string>
+    <string name="tab_places">My Places</string>
+    <string name="tab_map">View Map</string>
+    <string name="tab_route">Best Route</string>
+    <string name="tab_nearby">Nearby</string>
+
+    <!-- Dashboard -->
+    <string name="welcome_message">Welcome, Traveller!</string>
+    <string name="itinerary_summary">Itinerary Summary</string>
+    <string name="total_places">Total Places</string>
+    <string name="completed_places">Completed</string>
+    <string name="remaining_places">Remaining</string>
+    <string name="route_status">Route Status</string>
+    <string name="route_not_calculated">Not Planned</string>
+    <string name="route_calculated">Route Ready</string>
+
+    <!-- Actions -->
+    <string name="plan_my_day">PLAN MY DAY</string>
+    <string name="add_place">Add Place</string>
+    <string name="view_map">View Map</string>
+    <string name="search_hint">Search for a landmark, city or place…</string>
+    <string name="search">Search</string>
+    <string name="clear_route">Clear Route</string>
+    <string name="recalculate_route">Recalculate Route</string>
+    <string name="nearby_restaurants">Nearby Restaurants</string>
+    <string name="nearby_rest_stops">Nearby Rest Stops</string>
+    <string name="add_to_itinerary">Add to Itinerary</string>
+    <string name="remove">Remove</string>
+
+    <!-- Filter Chips -->
+    <string name="filter_all">All</string>
+    <string name="filter_sightseeing">Sightseeing</string>
+    <string name="filter_food">Food Stops</string>
+    <string name="filter_rest">Rest Stops</string>
+
+    <!-- Empty States -->
+    <string name="no_places_yet">No places added to your itinerary yet.\nSearch and add places above!</string>
+    <string name="no_route_yet">Tap \"PLAN MY DAY\" to generate an optimized route for your selected places.</string>
+    <string name="no_nearby_results">No nearby results found. Try searching a different location or query.</string>
+</resources>
